@@ -1,0 +1,10 @@
+No Python, podemos criar programas de automacao
+No Python, podemos criar listas e tuplas para armazenar e puxar informacoes
+No Python, podemos criar loops para ler arquivos como listas e dicionarios de forma subsquente
+No Python, podemos fazer calculos, inclusive com a biblioteca nativa math
+No Python, podemos manipular textos convertidos em string
+No Python, podemos inputar informacoes digitas pelo usuario
+No Python, podemos criar modulo para guardar classes que serao muito utilizadas em outros programas
+No Python, podemos manipular dados rotulados com keys e valores atraves dos dicionarios
+No Python, podemos criar analises e modelos preditivos com seaborn, scikit e outros
+No Python, podemos manipular arquivos de diversos modelos utilizando pandas
