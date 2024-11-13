@@ -11,7 +11,7 @@ class Ship:
 
 
         # Sobe a imagem da espaçonave e obtém seu rect
-        self.image = pygame.image.load('anso_ship.bmp')
+        self.image = pygame.image.load('images/shipanderson.bmp')
         self.rect = self.image.get_rect()
 
         # Começa cada espaçonave nova no centro inferior da tela
