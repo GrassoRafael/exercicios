@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Programa</title>
+    <style>
+        body {
+            background-color: rgb(111, 111, 221);
+            color:floralwhite; /* Comentário em CSS */
+            font: normal 25pt Arial; 
+        }
+        h1 {
+            color:rgb(240, 136, 10);
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1> <!-- Comentário em HTML -->
+    <p>Bom dia padrinho</p> 
+    <script>
+        var n1 = Number.parseFloat(window.prompt('Digite um número: ')) // String
+        var n2 = Number(window.prompt('Digite outro número: ')) // String
+        var s = n1 + n2
+        window.alert(`A soma entre ${n1} e ${n2} é igual a ${s}`) // ${} É como o format do python template string
+    </script>
+</body>
+</html>
